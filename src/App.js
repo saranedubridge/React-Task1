@@ -6,7 +6,7 @@ import './App.css';
 
 
 const StarRating = () => {
-  const totalStars = 5;
+  const totalStars = 5;i 
   const [rating, setRating] = useState(0);
 
   const handleStarClick = (index) => {
